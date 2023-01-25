@@ -1,0 +1,22 @@
+:root {
+
+    --fondo-uno: #ebd7d7 ;
+    
+
+}
+
+*{
+padding: 0;
+margin: 0;
+}
+
+body {
+background: var(--fondo-uno);
+margin:40px ;
+
+}
+
+ul {
+
+list-style:none;
+}
